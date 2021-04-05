@@ -5,3 +5,4 @@
 作业1描述
 
 [作业1链接](https://HaoGong111.github.io/map_base.html)
+[作业2链接](https://HaoGong111.github.io/hw1_龚浩.html)
