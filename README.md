@@ -8,5 +8,5 @@
 [词云](https://HaoGong111.github.io/wordfreq_cloud.html)  
 [象型柱图](https://HaoGong111.github.io/pictorialbar_base.html)  
 ## 2.作业2  
-地理连线图  
-[地理连线图]
+地理连线图：这张图是我高中同学毕业后就读大学的去向，自重庆市的万州区各奔东西。  
+[地理连线图](https://HaoGong111.github.io/geo_line.html)
