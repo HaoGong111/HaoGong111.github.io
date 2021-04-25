@@ -15,4 +15,13 @@
 [中国地图](https://HaoGong111.github.io/map.html)  
 ## 4.作业4  
 组合图表：这张图表是我自这学期开学以来，手机上记录的每天走路步数。总共过去了四周。  
-[组合图表](https://HaoGong111.github.io/timeline.html)
+[组合图表](https://HaoGong111.github.io/timeline.html)  
+# 计算机科学与编程入门课程第三次作业  
+## 1.作业1  
+人物关系图  
+## 2.作业2  
+搜索页面  
+[Search.html](https://HaoGong111.github.io/Homework2/search.html)  
+## 3.作业3  
+设计的网页，主要包括头部（logo、navigation、search_bar、user），导航图(subnav、course)，精品（goods），番剧推荐（header、body），页尾（copyright、links）。  
+[index01.html](https://HaoGong111.github.io/Homework2/index01.html)
