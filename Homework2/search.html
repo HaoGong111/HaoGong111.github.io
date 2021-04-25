@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="search-style.css">
+    <script defer src="all.js"></script>
+    <!-- <script defer src="fontawesome-free-5.15.3-web/js/all.js"></script> -->
+    <script src="https://files.cnblogs.com/files/quaint/sakuraPlus.js"></script>
+    <script type= "text/javascript" src= "https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js" ></script>
+    <title>搜索框</title>
+</head>
+
+<body>
+    <div class="search-box">
+        <form action="http://www.baidu.com/s" method="get" target="_blank">
+            <input class="search-input" type="text" id="input_test" name="wd" value="百度一下">
+            <span class="search-btn">
+                <input class="input-submit" type="submit">
+                <i class="fas fa-search"></i>
+            </span>
+        </form>
+    </div>
+</body>
+
+<script>
+    $( function() {
+    var inputEl = $( '#input_test'),
+        defVal = inputEl.val();
+    inputEl.bind({
+        focus: function() {
+            var _this = $( this);
+            if (_this.val() == defVal) {
+                _this.val( '');
+            }
+            $(this).css('width', '240px');
+        },
+        blur: function() {
+            var _this = $( this);
+            if (_this.val() == '') {
+                _this.val(defVal);
+            }
+        }
+    });
+})
+</script>
+</html>
