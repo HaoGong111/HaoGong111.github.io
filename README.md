@@ -20,7 +20,7 @@
 ## 1.作业1  
 人物关系图  
 ## 2.作业2  
-搜索页面  
+搜索页面，引入的js效果可能要刷新下页面才能显示  
 [Search.html](https://HaoGong111.github.io/Homework2/search.html)  
 ## 3.作业3  
 设计的网页，主要包括头部（logo、navigation、search_bar、user），导航图(subnav、course)，精品（goods），番剧推荐（header、body），页尾（copyright、links）。  
