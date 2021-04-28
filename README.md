@@ -19,7 +19,7 @@
 # 计算机科学与编程入门课程第三次作业  
 ## 1.作业1  
 人物关系图  
-[人物关系图](https://HaoGong111.github.io/关系图-大道朝天.html)
+[人物关系图](https://HaoGong111.github.io/Homework2/关系图-大道朝天.html)
 ## 2.作业2  
 搜索页面，引入的js效果可能要刷新下页面才能显示  
 [Search.html](https://HaoGong111.github.io/Homework2/search.html)  
